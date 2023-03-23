@@ -1,0 +1,1 @@
+Projeto modelo de uma lanchonete para treino do HTML e CSS respeitando a semântica e responsividade. 
